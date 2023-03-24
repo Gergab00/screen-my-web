@@ -1,0 +1,23 @@
+{
+  "name": "screen-my-web",
+  "version": "1.0.0",
+  "description": "Application to take a full Screenshot of a particular page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gergab00/screen-my-web.git"
+  },
+  "keywords": [
+    "screenshot",
+    "webpage"
+  ],
+  "author": "Gerardo Gonzalez",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Gergab00/screen-my-web/issues"
+  },
+  "homepage": "https://github.com/Gergab00/screen-my-web#readme"
+}
