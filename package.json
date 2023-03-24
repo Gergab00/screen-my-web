@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Gergab00/screen-my-web/issues"
   },
-  "homepage": "https://github.com/Gergab00/screen-my-web#readme"
+  "homepage": "https://github.com/Gergab00/screen-my-web#readme",
+  "dependencies": {
+    "puppeteer": "^19.8.0"
+  }
 }
