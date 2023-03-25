@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/Gergab00/screen-my-web#readme",
   "dependencies": {
-    "puppeteer": "^19.8.0"
+    "express": "^4.18.2",
+    "puppeteer": "^19.8.0",
+    "uuid": "^9.0.0"
   }
 }
